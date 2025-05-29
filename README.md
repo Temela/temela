@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Temela/Temela/main/banner.png" alt="Fr Tony Banner" />
+  <img src="https://raw.githubusercontent.com/Temela/Temela/main/banner.png" alt="Fr. ND Banner" />
 </p>
+
 
 <h1 align="center">👋🏽 Hi, I'm ND TChiemela, C.S.Sp.</h1>
 <h3 align="center">Catholic Priest | Data Scientist | Healthcare Tech Advocate</h3>
