@@ -83,7 +83,7 @@
 📧 Email: tchiemela@gmail.com
 🎓 PhD hopeful. Looking to research AI for good, especially in healthcare & accessibility.
 🧳 Organizes Christmas outreaches for those at the peripherials.
-🎾 Hobbies: Badminton, Lawn Tennis, and debugging code like it owes me money.
+🎾 Hobbies: Badminton, Lawn Tennis, and debugging code like it owes me money. Hey, and photographing (I don't mean selfies o).
 
 ---
 
