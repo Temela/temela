@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Temela/Temela/main/banner.png" alt="Fr. ND Banner" />
+  <img src="https://github.com/Temela/temela/blob/main/banner.png" alt="Fr. ND Banner" />
 </p>
 
 <h1 align="center">👋🏽 Hi, I'm ND TChiemela, C.S.Sp.</h1>
