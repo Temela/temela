@@ -2,7 +2,7 @@
 <h3 align="center">Catholic Priest | Data Scientist | Healthcare Tech Advocate</h3>
 
 <p align="center">
-  📍 Nigeria | 🔬 PGD in Information Technology | 🎓 M.A. in Theology | B.A. in Philosophy & B.A in Religion/Cultural Studies  
+  📍 Mother Earth | 🔬 PGD in Information Technology | 🎓 M.A. in Theology | B.A. in Philosophy & B.A in Religion/Cultural Studies  
   <br>
   ✉️ <a href="mailto:tchiemela@gmail.com">tchiemela@gmail.com</a> • 🌐 <a href="https://www.linkedin.com/in/tchiemela">LinkedIn</a>
 </p>
