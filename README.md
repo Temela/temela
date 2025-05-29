@@ -82,7 +82,7 @@
 ## 💬 Talk to Me (I Don’t Bite, Unless You're a Bug in My Code)
 📧 Email: tchiemela@gmail.com
 🎓 PhD hopeful. Looking to research AI for good, especially in healthcare & accessibility.
-🧳 Organizes Christmas outreaches for older adults.
+🧳 Organizes Christmas outreaches for those at the peripherials.
 🎾 Hobbies: Badminton, Lawn Tennis, and debugging code like it owes me money.
 
 ---
