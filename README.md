@@ -10,8 +10,7 @@
 ---
 ## 🧑🏽‍💻 Who Am I (in bullet points, because life is short)
 
-- 📿 Full-time priest. Part-time debugger of stubborn systems.
-- 📚 PGD in Information Technology, M.A. in Theology, B.A. in Religion/Cultural Studies, B.A. in Philosophy.  
+- 📿 Full-time priest. Part-time debugger of stubborn systems.  
 - 🧠 Interested in Human-Centered AI & Machine Learning , Ethical & Responsible AI, Healthcare Tech, and what Quantum Computing *thinks* it’s doing.
 - 👴🏾 Advocate for tech solutions for the elderly—because our elders are gold, not “legacy systems.”
 - 🗳 Built a voter registration system with biometrics and voice tech. INEC, are you seeing this?
