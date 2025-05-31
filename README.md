@@ -3,94 +3,97 @@
 </p>
 
 <h1 align="center">👋🏽 Hi, I'm ND TChiemela, C.S.Sp.</h1>
-<h3 align="center">Catholic Priest | Data Scientist | Healthcare Tech Advocate</h3>
+<h3 align="center">Catholic Priest | Data Scientist | Human-Centered Computing Advocate</h3>
 
 <p align="center">
-  📍 Mother Earth | 🔬 PGD in Information Technology | 🎓 M.A. in Theology | B.A. in Philosophy & B.A in Religion/Cultural Studies  
-  <br>
+  🔍 Ethical AI • 💡 Health Tech for Good • 🌍 Researching Care-Focused Computing  
   ✉️ <a href="mailto:tchiemela@gmail.com">tchiemela@gmail.com</a> • 🌐 <a href="https://www.linkedin.com/in/tchiemela">LinkedIn</a>
 </p>
 
 ---
-## 🧑🏽‍💻 Who Am I (in bullet points, because life is short)
 
-- 📿 Full-time priest. Part-time debugger of stubborn systems.  
-- 🧠 Interested in Human-Centered AI & Machine Learning , Ethical & Responsible AI, Healthcare Tech, and what Quantum Computing *thinks* it’s doing.
-- 👴🏾 Advocate for tech solutions for the elderly—because our elders are gold, not “legacy systems.”
-- 🗳 Built a voter registration system with biometrics and voice tech. INEC, are you seeing this?
+## 🧠 Human at the Center, Always
 
----
-
-## 🔬 🧪 Projects That Didn't Crash My Laptop
-
-### 🗳️ INEC Voter Registration & Voting System (PGD Thesis)
-> Distributed Database • Biometric & Voice Access • Civic Tech
-- Designed a secure and flexible registration system for Nigerian elections
-- Integrated voice and fingerprint recognition for accessibility  
-🔗 [See Project Repo](https://github.com/Temela/INEC-Voter-System)
-
-### 🧠 Predicting Cardiovascular Disease with Machine Learning
-> Python • Scikit-learn • Healthcare  
-- Built predictive models for early detection using clinical datasets  
-🔗 [See Project](https://github.com/Temela/CardioRisk-ML)
-
-### 📊 Employee Exit Data Analytics
-> Excel • Power BI • HR Insights  
-- Analyzed exit patterns and drivers of employee turnover  
-🔗 [See Project](https://github.com/Temela/Employee-Exit-Analysis)
+- ✝️ Priest by vocation. Researcher by training. Technologist by necessity.
+- 🧓 Designing for older adults, the sick, and the underserved—because compassion scales through design.
+- 🧪 Exploring **Ethics-Aware AI**, **HCI**, and **Accessible Tech** that prioritizes people over patterns.
+- 🧭 Working at the intersection of social mission and computational logic.
 
 ---
 
-## 📚 Fun With Research (Yes, it's possible)
+## 🔍 Flagship Work
 
-- **“Leveraging Big Data and IoT in Media”** – when sensors and soap operas meet.  
-- **“Quantum Computing for Fraud Detection”** – Schrödinger’s wallet: stolen and not stolen?  
-- **“Edge Analytics in IoT”** – Because waiting for the cloud is so 2019.  
-🔗 [Publications Repo](https://github.com/Temela/publications)
+### 🗳️ INEC Voter Registration & Voting System
+> Distributed Systems • Biometrics • Accessibility Design  
+Built a secure civic tech system integrating fingerprint + voice interfaces for Nigeria’s elections.  
+🔗 [View Repo](https://github.com/Temela/INEC-Voter-System)
+
+### 🩺 Cardiovascular Risk Prediction
+> Scikit-learn • Clinical Modeling • Preventive Health  
+Machine learning model for early heart disease detection—supporting proactive elder care.  
+🔗 [View Repo](https://github.com/Temela/CardioRisk-ML)
+
+### 🧾 Employee Exit Dashboard
+> Power BI • Workplace Retention • HR Analytics  
+Interactive dashboard explaining why people leave—and how to care before they do.  
+🔗 [View Repo](https://github.com/Temela/Employee-Exit-Analysis)
+
+### 🧍 Banking Churn Analysis
+> Python • Power BI • Fair Lending  
+Analyzed customer attrition with an ethical lens on financial inclusion.  
+🔗 [View Repo](https://github.com/Temela/Banking-Retention-Insights)
 
 ---
 
-## 🛠️ Tools & Technologies
+## 📚 Research, but Human First
+
+- **Ethics & AI**: What if fairness was built-in, not bolted on?
+- **Big Data & IoT in Media**: Understanding people behind the pixels.  
+- **Quantum Computing & Fraud Detection**: Looking for fraud where it hides in uncertainty.
+🔗 [Research & Papers](https://github.com/Temela/publications)
+
+---
+
+## ⚙️ Tools I Use to Think
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (not why I do this, but still…)
 
 ![Temela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Temela&show_icons=true&theme=default)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temela&layout=compact)
-</p>
 
 ---
 
-## 🤝 Collaborations & Work
+## ✊ What I Do Beyond Code
 
-- Assistant Provincial Secretary, Spiritans Nigeria Southeast  
-- Founder/Director, Spiritan Healthcare Apostolate  
-- Director of Social Communications, Spiritans  
-- Former Assistant Director, Spiritan Press Enterprise  
+- 🗂️ Assistant Provincial Secretary, Spiritans Nigeria Southeast  
+- 🧑‍⚕️ Director, Spiritan Healthcare Apostolate (tech + care for elderly people)  
+- 📡 Director of Social Communications  
+- 🎙️ Preacher who writes code and builds systems that care
 
-> I build tech for impact—especially for those the world often forgets.
+> My tools serve people. Not the other way around.
 
 ---
 
-## 💬 Talk to Me (I Don’t Bite, Unless You're a Bug in My Code)
-📧 Email: tchiemela@gmail.com
-🎓 PhD hopeful. Looking to research AI for good, especially in healthcare & accessibility.
-🧳 Organizes Christmas outreaches for those at the peripherials.
-🎾 Hobbies: Badminton, Lawn Tennis, and debugging code like it owes me money. Hey, and photographing (I don't mean selfies o).
+## 📬 Let’s Connect
+
+- 📧 Email: tchiemela@gmail.com  
+- 🎓 PhD aspirant in Human-Centered AI  
+- 🎄 Organizes Christmas medical outreach for vunerable people  
+- 📷 Also into photography. And lawn tennis. And debugging without losing my mind.
 
 ---
 
 <p align="center">
-  “Use tech to reach the forgotten. Use code to amplify care. Use joy, always.” 
-  - Fr Tony
+  “Put people first. Then write code.”
+  - Fr. ND
 </p>
