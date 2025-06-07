@@ -20,37 +20,43 @@
 - 🧭 Working at the intersection of social mission and computational logic.
 
 ---
-
-## 🔍 Flagship Work
-
-### 🗳️ INEC Voter Registration & Voting System
-> Distributed Systems • Biometrics • Accessibility Design  
-Built a secure civic tech system integrating fingerprint + voice interfaces for Nigeria’s elections.  
-🔗 [View Repo](https://github.com/Temela/INEC-Voter-System)
-
-### 🩺 Cardiovascular Risk Prediction
-> Scikit-learn • Clinical Modeling • Preventive Health  
-Machine learning model for early heart disease detection—supporting proactive elder care.  
-🔗 [View Repo](https://github.com/Temela/CardioRisk-ML)
-
-### 🧾 Employee Exit Dashboard
-> Power BI • Workplace Retention • HR Analytics  
-Interactive dashboard explaining why people leave—and how to care before they do.  
-🔗 [View Repo](https://github.com/Temela/Employee-Exit-Analysis)
-
-### 🧍 Banking Churn Analysis
-> Python • Power BI • Fair Lending  
-Analyzed customer attrition with an ethical lens on financial inclusion.  
-🔗 [View Repo](https://github.com/Temela/Banking-Retention-Insights)
+### 🔍 Research Interests
+- Human-Centered Computing (HCC)
+- Healthcare Tech & Accessibility
+- Ethical AI and Responsible ML
+- Civic Tech & Distributed Systems
+- Religion + Technology Integration
 
 ---
 
-## 📚 Research, but Human First
+## 🧪 Featured Projects
 
-- **Ethics & AI**: What if fairness was built-in, not bolted on?
-- **Big Data & IoT in Media**: Understanding people behind the pixels.  
-- **Quantum Computing & Fraud Detection**: Looking for fraud where it hides in uncertainty.
-🔗 [Research & Papers](https://github.com/Temela/publications)
+### [`CURA`](https://github.com/Temela/CURA)
+> A compassion-driven health monitoring system for elderly clergy, integrating vital sign tracking, mood logs, and ethical design.
+
+### [`INEC Voter System`](https://github.com/Temela/INEC-Voter-System)
+> PGD project building a voice- and biometrics-enabled distributed voting and registration system for Nigerian elections.
+
+### [`CardioRisk ML`](https://github.com/Temela/CardioRisk-ML)
+> ML model predicting cardiovascular risk using healthcare datasets and clinical features.
+
+---
+
+## 📜 Selected Publications
+
+- **Edge Analytics in IoT for Smart Cities** (IJRIAS 2024)  
+- **Quantum Computing in Healthcare** *(Under Review)*  
+- **Big Data in Media Engagement** *(Under Review)*
+
+👉 [See all](https://github.com/Temela/publications)
+
+---
+
+## 👨🏽‍🏫 Academic Experience
+
+- Graduate Teaching Assistant, Computer Science Dept., Spiritan University Nneochi  
+- Assistant Provincial Secretary & Director of Social Communications, Spiritans Nigeria  
+- Founder, Spiritan Healthcare Apostolate – focused on predictive elderly care models
 
 ---
 
@@ -86,14 +92,13 @@ Analyzed customer attrition with an ethical lens on financial inclusion.
 
 ## 📬 Let’s Connect
 
-- 📧 Email: tchiemela@gmail.com  
-- 🎓 PhD aspirant in Human-Centered AI  
-- 🎄 Organizes Christmas medical outreach for vunerable people  
-- 📷 Also into photography. And lawn tennis. And debugging without losing my mind.
+- 📧 Email: tchiemela@gmail.com
+- 🌍 [Academic Portfolio Website](https://temela.github.io)  
+- 📄 [CV](https://github.com/Temela/temela.github.io/blob/main/files/fr-nd-cv.pdf) 
 
 ---
 
 <p align="center">
-  “Put people first. Then write code.”
+✝️ “Put people first. Then write code.”
   - Fr. ND
 </p>
